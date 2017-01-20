@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectGuid>{2D9B2050-CE9C-4D89-8F4C-EE3769C980F5}</ProjectGuid>
+    <ProjectTypeGuids>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>cgcommerce</RootNamespace>
+    <AssemblyName>cgcommerce</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <NoWin32Manifest>False</NoWin32Manifest>
+    <RunCodeAnalysis>False</RunCodeAnalysis>
+    <SignAssembly>False</SignAssembly>
+    <DelaySign>False</DelaySign>
+    <RunPostBuildEvent>OnBuildSuccess</RunPostBuildEvent>
+    <AllowUnsafeBlocks>False</AllowUnsafeBlocks>
+    <NoStdLib>False</NoStdLib>
+    <TreatWarningsAsErrors>False</TreatWarningsAsErrors>
+    <IntermediateOutputPath>obj\$(Configuration)\</IntermediateOutputPath>
+    <WarningLevel>4</WarningLevel>
+    <SourceAnalysisOverrideSettingsFile>C:\Users\ratondepc\AppData\Roaming\ICSharpCode\SharpDevelop5\Settings.SourceAnalysis</SourceAnalysisOverrideSettingsFile>
+    <ApplicationIcon>bin\BASE\Shop.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <BaseAddress>4194304</BaseAddress>
+    <RegisterForComInterop>False</RegisterForComInterop>
+    <GenerateSerializationAssemblies>Auto</GenerateSerializationAssemblies>
+    <FileAlignment>4096</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <BaseIntermediateOutputPath>obj\</BaseIntermediateOutputPath>
+    <StartAction>Project</StartAction>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+    <BaseIntermediateOutputPath>obj\</BaseIntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel">
+      <HintPath>..\packages\Excel-DNA.Interop.14.0.1\lib\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Office">
+      <HintPath>..\packages\Excel-DNA.Interop.14.0.1\lib\Office.dll</HintPath>
+    </Reference>
+    <Reference Include="Spire.Common">
+      <HintPath>..\packages\ClosedXML_Excel.1.0.0\lib\Spire.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Spire.License">
+      <HintPath>..\packages\ClosedXML_Excel.1.0.0\lib\Spire.License.dll</HintPath>
+    </Reference>
+    <Reference Include="Spire.Pdf">
+      <HintPath>..\packages\ClosedXML_Excel.1.0.0\lib\Spire.Pdf.dll</HintPath>
+    </Reference>
+    <Reference Include="Spire.XLS">
+      <HintPath>..\packages\ClosedXML_Excel.1.0.0\lib\Spire.XLS.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Administracion - Modulo\finanza.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Administracion - Modulo\finanza.Designer.cs">
+      <DependentUpon>finanza.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Agregado-Modulo\datos_agregado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Agregado-Modulo\datos_agregado.Designer.cs">
+      <DependentUpon>datos_agregado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Agregado-Modulo\nuevo_agregado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Agregado-Modulo\nuevo_agregado.Designer.cs">
+      <DependentUpon>nuevo_agregado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Caja-Modulo\cierre.cs" />
+    <Compile Include="Caja-Modulo\cierre.Designer.cs">
+      <DependentUpon>cierre.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Caja-Modulo\apertura.cs" />
+    <Compile Include="Caja-Modulo\apertura.Designer.cs">
+      <DependentUpon>apertura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cliente-Modulo\clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cliente-Modulo\clientes.Designer.cs">
+      <DependentUpon>clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cliente-Modulo\editar_cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cliente-Modulo\editar_cliente.Designer.cs">
+      <DependentUpon>editar_cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cliente-Modulo\nuevo_cliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cliente-Modulo\nuevo_cliente.Designer.cs">
+      <DependentUpon>nuevo_cliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Config-Modulo\config_menu.cs" />
+    <Compile Include="Config-Modulo\config_menu.Designer.cs">
+      <DependentUpon>config_menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empleado-Modulo\empleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empleado-Modulo\empleado.Designer.cs">
+      <DependentUpon>empleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empleado-Modulo\editar_empleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empleado-Modulo\editar_empleado.Designer.cs">
+      <DependentUpon>editar_empleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Empleado-Modulo\nuevo_empleado.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Empleado-Modulo\nuevo_empleado.Designer.cs">
+      <DependentUpon>nuevo_empleado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="herramientas\base_datos.cs" />
+    <Compile Include="herramientas\cargar_config.cs" />
+    <Compile Include="herramientas\licencia.cs" />
+    <Compile Include="imagenes.Designer.cs">
+      <DependentUpon>imagenes.resx</DependentUpon>
+      <AutoGen>True</AutoGen>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Panel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Panel.Designer.cs">
+      <DependentUpon>Panel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Pedidos-Modulo\add_pedido.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pedidos-Modulo\add_pedido.Designer.cs">
+      <DependentUpon>add_pedido.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Producto-Modulo\nuevo_producto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Producto-Modulo\nuevo_producto.Designer.cs">
+      <DependentUpon>nuevo_producto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Producto-Modulo\productos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Producto-Modulo\productos.Designer.cs">
+      <DependentUpon>productos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Themes\BaseTheme.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Themes\ColorTable.cs" />
+    <Compile Include="Themes\flowtheme.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Themes\fusiontheme.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Themes\genuintheme.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Themes\MyTheme.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Themes\primetheme.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Themes\studiotheme.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Themes\Xbutton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="ExcelDna-Template.dna">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="klavika-bold-webfont.ttf" />
+    <None Include="klavika-medium-webfont.ttf" />
+    <None Include="klavika-regular-webfont.ttf" />
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Administracion - Modulo\finanza.resx">
+      <DependentUpon>finanza.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Agregado-Modulo\datos_agregado.resx">
+      <DependentUpon>datos_agregado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Agregado-Modulo\nuevo_agregado.resx">
+      <DependentUpon>nuevo_agregado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Caja-Modulo\cierre.resx">
+      <DependentUpon>cierre.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Caja-Modulo\apertura.resx">
+      <DependentUpon>apertura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cliente-Modulo\clientes.resx">
+      <DependentUpon>clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cliente-Modulo\editar_cliente.resx">
+      <DependentUpon>editar_cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cliente-Modulo\nuevo_cliente.resx">
+      <DependentUpon>nuevo_cliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Config-Modulo\config_menu.resx">
+      <DependentUpon>config_menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empleado-Modulo\empleado.resx">
+      <DependentUpon>empleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empleado-Modulo\editar_empleado.resx">
+      <DependentUpon>editar_empleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Empleado-Modulo\nuevo_empleado.resx">
+      <DependentUpon>nuevo_empleado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="imagenes.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>imagenes.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Panel.resx">
+      <DependentUpon>Panel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Pedidos-Modulo\add_pedido.resx">
+      <DependentUpon>add_pedido.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Producto-Modulo\nuevo_producto.resx">
+      <DependentUpon>nuevo_producto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Producto-Modulo\productos.resx">
+      <DependentUpon>productos.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Empleado-Modulo" />
+    <Folder Include="Config-Modulo" />
+    <Folder Include="Caja-Modulo" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

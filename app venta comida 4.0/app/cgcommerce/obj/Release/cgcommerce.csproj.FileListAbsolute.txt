@@ -1,0 +1,201 @@
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.6\app\cgcommerce\obj\Release\cgcommerce.csprojResolveAssemblyReference.cache
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.6\app\cgcommerce\obj\Release\cgcommerce.Administracion___Modulo.finanza.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.6\app\cgcommerce\obj\Release\cgcommerce.Agregado_Modulo.datos_agregado.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.6\app\cgcommerce\obj\Release\cgcommerce.nuevo_agregado.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.6\app\cgcommerce\obj\Release\cgcommerce.clientes.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.6\app\cgcommerce\obj\Release\cgcommerce.editar_cliente.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.6\app\cgcommerce\obj\Release\cgcommerce.nuevo_cliente.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.6\app\cgcommerce\obj\Release\cgcommerce.Config_Modulo.config_menu.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.6\app\cgcommerce\obj\Release\cgcommerce.empleado.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.6\app\cgcommerce\obj\Release\cgcommerce.editar_empleado.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.6\app\cgcommerce\obj\Release\cgcommerce.nuevo_empleado.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.6\app\cgcommerce\obj\Release\cgcommerce.Imprimir.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.6\app\cgcommerce\obj\Release\cgcommerce.imagenes.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.6\app\cgcommerce\obj\Release\cgcommerce.MainForm.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.6\app\cgcommerce\obj\Release\cgcommerce.Panel.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.6\app\cgcommerce\obj\Release\cgcommerce.add_pedido.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.6\app\cgcommerce\obj\Release\cgcommerce.nuevo_producto.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.6\app\cgcommerce\obj\Release\cgcommerce.Producto_Modulo.productos.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.6\app\cgcommerce\obj\Release\cgcommerce.csproj.GenerateResource.Cache
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.6\app\cgcommerce\bin\Release\cgcommerce.exe.config
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.6\app\cgcommerce\bin\Release\cgcommerce.exe
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.6\app\cgcommerce\obj\Release\cgcommerce.exe
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.6\app\cgcommerce\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.6\app\cgcommerce\bin\Release\Microsoft.Vbe.Interop.dll
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.6\app\cgcommerce\bin\Release\Office.dll
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.6\app\cgcommerce\bin\Release\Microsoft.Office.Interop.Excel.xml
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.6\app\cgcommerce\bin\Release\Office.xml
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.6\app\cgcommerce\bin\Release\ExcelDna-Template.dna
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.6\app\cgcommerce\bin\Release\Spire.Common.dll
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.6\app\cgcommerce\bin\Release\Spire.License.dll
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.6\app\cgcommerce\bin\Release\Spire.Pdf.dll
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.6\app\cgcommerce\bin\Release\Spire.XLS.dll
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.6\app\cgcommerce\obj\Release\cgcommerce.Caja_Modulo.cierre.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.6\app\cgcommerce\obj\Release\cgcommerce.Caja_Modulo.apertura.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.9\app\cgcommerce\bin\Release\ExcelDna-Template.dna
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.9\app\cgcommerce\bin\Release\cgcommerce.exe.config
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.9\app\cgcommerce\bin\Release\cgcommerce.exe
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.9\app\cgcommerce\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.9\app\cgcommerce\bin\Release\Office.dll
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.9\app\cgcommerce\bin\Release\Spire.Common.dll
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.9\app\cgcommerce\bin\Release\Spire.License.dll
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.9\app\cgcommerce\bin\Release\Spire.Pdf.dll
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.9\app\cgcommerce\bin\Release\Spire.XLS.dll
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.9\app\cgcommerce\bin\Release\Microsoft.Vbe.Interop.dll
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.9\app\cgcommerce\bin\Release\Microsoft.Office.Interop.Excel.xml
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.9\app\cgcommerce\bin\Release\Office.xml
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.9\app\cgcommerce\obj\Release\cgcommerce.csprojResolveAssemblyReference.cache
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.9\app\cgcommerce\obj\Release\cgcommerce.Administracion___Modulo.finanza.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.9\app\cgcommerce\obj\Release\cgcommerce.Agregado_Modulo.datos_agregado.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.9\app\cgcommerce\obj\Release\cgcommerce.nuevo_agregado.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.9\app\cgcommerce\obj\Release\cgcommerce.Caja_Modulo.cierre.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.9\app\cgcommerce\obj\Release\cgcommerce.Caja_Modulo.apertura.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.9\app\cgcommerce\obj\Release\cgcommerce.clientes.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.9\app\cgcommerce\obj\Release\cgcommerce.editar_cliente.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.9\app\cgcommerce\obj\Release\cgcommerce.nuevo_cliente.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.9\app\cgcommerce\obj\Release\cgcommerce.Config_Modulo.config_menu.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.9\app\cgcommerce\obj\Release\cgcommerce.empleado.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.9\app\cgcommerce\obj\Release\cgcommerce.editar_empleado.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.9\app\cgcommerce\obj\Release\cgcommerce.nuevo_empleado.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.9\app\cgcommerce\obj\Release\cgcommerce.Imprimir.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.9\app\cgcommerce\obj\Release\cgcommerce.imagenes.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.9\app\cgcommerce\obj\Release\cgcommerce.MainForm.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.9\app\cgcommerce\obj\Release\cgcommerce.Panel.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.9\app\cgcommerce\obj\Release\cgcommerce.add_pedido.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.9\app\cgcommerce\obj\Release\cgcommerce.nuevo_producto.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.9\app\cgcommerce\obj\Release\cgcommerce.Producto_Modulo.productos.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.9\app\cgcommerce\obj\Release\cgcommerce.csproj.GenerateResource.Cache
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 3.9\app\cgcommerce\obj\Release\cgcommerce.exe
+C:\Users\Javier Muñoz\Desktop\app venta comida 4.0\app\cgcommerce\bin\Release\ExcelDna-Template.dna
+C:\Users\Javier Muñoz\Desktop\app venta comida 4.0\app\cgcommerce\bin\Release\cgcommerce.exe.config
+C:\Users\Javier Muñoz\Desktop\app venta comida 4.0\app\cgcommerce\bin\Release\cgcommerce.exe
+C:\Users\Javier Muñoz\Desktop\app venta comida 4.0\app\cgcommerce\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Javier Muñoz\Desktop\app venta comida 4.0\app\cgcommerce\bin\Release\Office.dll
+C:\Users\Javier Muñoz\Desktop\app venta comida 4.0\app\cgcommerce\bin\Release\Spire.Common.dll
+C:\Users\Javier Muñoz\Desktop\app venta comida 4.0\app\cgcommerce\bin\Release\Spire.License.dll
+C:\Users\Javier Muñoz\Desktop\app venta comida 4.0\app\cgcommerce\bin\Release\Spire.Pdf.dll
+C:\Users\Javier Muñoz\Desktop\app venta comida 4.0\app\cgcommerce\bin\Release\Spire.XLS.dll
+C:\Users\Javier Muñoz\Desktop\app venta comida 4.0\app\cgcommerce\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\Javier Muñoz\Desktop\app venta comida 4.0\app\cgcommerce\bin\Release\Microsoft.Office.Interop.Excel.xml
+C:\Users\Javier Muñoz\Desktop\app venta comida 4.0\app\cgcommerce\bin\Release\Office.xml
+C:\Users\Javier Muñoz\Desktop\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.csprojResolveAssemblyReference.cache
+C:\Users\Javier Muñoz\Desktop\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.Administracion___Modulo.finanza.resources
+C:\Users\Javier Muñoz\Desktop\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.Agregado_Modulo.datos_agregado.resources
+C:\Users\Javier Muñoz\Desktop\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.nuevo_agregado.resources
+C:\Users\Javier Muñoz\Desktop\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.Caja_Modulo.cierre.resources
+C:\Users\Javier Muñoz\Desktop\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.Caja_Modulo.apertura.resources
+C:\Users\Javier Muñoz\Desktop\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.clientes.resources
+C:\Users\Javier Muñoz\Desktop\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.editar_cliente.resources
+C:\Users\Javier Muñoz\Desktop\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.nuevo_cliente.resources
+C:\Users\Javier Muñoz\Desktop\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.Config_Modulo.config_menu.resources
+C:\Users\Javier Muñoz\Desktop\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.empleado.resources
+C:\Users\Javier Muñoz\Desktop\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.editar_empleado.resources
+C:\Users\Javier Muñoz\Desktop\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.nuevo_empleado.resources
+C:\Users\Javier Muñoz\Desktop\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.imagenes.resources
+C:\Users\Javier Muñoz\Desktop\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.Imprimir.resources
+C:\Users\Javier Muñoz\Desktop\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.MainForm.resources
+C:\Users\Javier Muñoz\Desktop\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.Panel.resources
+C:\Users\Javier Muñoz\Desktop\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.add_pedido.resources
+C:\Users\Javier Muñoz\Desktop\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.nuevo_producto.resources
+C:\Users\Javier Muñoz\Desktop\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.Producto_Modulo.productos.resources
+C:\Users\Javier Muñoz\Desktop\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.csproj.GenerateResource.Cache
+C:\Users\Javier Muñoz\Desktop\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.exe
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 4.0\app\cgcommerce\bin\Release\ExcelDna-Template.dna
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 4.0\app\cgcommerce\bin\Release\cgcommerce.exe.config
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 4.0\app\cgcommerce\bin\Release\cgcommerce.exe
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 4.0\app\cgcommerce\bin\Release\Microsoft.Office.Interop.Excel.dll
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 4.0\app\cgcommerce\bin\Release\Office.dll
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 4.0\app\cgcommerce\bin\Release\Spire.Common.dll
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 4.0\app\cgcommerce\bin\Release\Spire.License.dll
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 4.0\app\cgcommerce\bin\Release\Spire.Pdf.dll
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 4.0\app\cgcommerce\bin\Release\Spire.XLS.dll
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 4.0\app\cgcommerce\bin\Release\Microsoft.Vbe.Interop.dll
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 4.0\app\cgcommerce\bin\Release\Microsoft.Office.Interop.Excel.xml
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 4.0\app\cgcommerce\bin\Release\Office.xml
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.csprojResolveAssemblyReference.cache
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.Administracion___Modulo.finanza.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.Agregado_Modulo.datos_agregado.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.nuevo_agregado.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.Caja_Modulo.cierre.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.Caja_Modulo.apertura.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.clientes.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.editar_cliente.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.nuevo_cliente.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.Config_Modulo.config_menu.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.empleado.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.editar_empleado.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.nuevo_empleado.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.imagenes.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.MainForm.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.Panel.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.add_pedido.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.nuevo_producto.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.Producto_Modulo.productos.resources
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.csproj.GenerateResource.Cache
+D:\Dropbox\Programacion\SharpDevelop Projects\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.exe
+C:\Users\Usuario\Documents\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\bin\Release\ExcelDna-Template.dna
+C:\Users\Usuario\Documents\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\bin\Release\cgcommerce.exe.config
+C:\Users\Usuario\Documents\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\bin\Release\cgcommerce.exe
+C:\Users\Usuario\Documents\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\bin\Release\Microsoft.Office.Interop.Excel.dll
+C:\Users\Usuario\Documents\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\bin\Release\Office.dll
+C:\Users\Usuario\Documents\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\bin\Release\Spire.Common.dll
+C:\Users\Usuario\Documents\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\bin\Release\Spire.License.dll
+C:\Users\Usuario\Documents\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\bin\Release\Spire.Pdf.dll
+C:\Users\Usuario\Documents\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\bin\Release\Spire.XLS.dll
+C:\Users\Usuario\Documents\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\bin\Release\Microsoft.Vbe.Interop.dll
+C:\Users\Usuario\Documents\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\bin\Release\Microsoft.Office.Interop.Excel.xml
+C:\Users\Usuario\Documents\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\bin\Release\Office.xml
+C:\Users\Usuario\Documents\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.Administracion___Modulo.finanza.resources
+C:\Users\Usuario\Documents\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.Agregado_Modulo.datos_agregado.resources
+C:\Users\Usuario\Documents\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.nuevo_agregado.resources
+C:\Users\Usuario\Documents\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.Caja_Modulo.cierre.resources
+C:\Users\Usuario\Documents\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.Caja_Modulo.apertura.resources
+C:\Users\Usuario\Documents\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.clientes.resources
+C:\Users\Usuario\Documents\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.editar_cliente.resources
+C:\Users\Usuario\Documents\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.nuevo_cliente.resources
+C:\Users\Usuario\Documents\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.Config_Modulo.config_menu.resources
+C:\Users\Usuario\Documents\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.empleado.resources
+C:\Users\Usuario\Documents\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.editar_empleado.resources
+C:\Users\Usuario\Documents\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.nuevo_empleado.resources
+C:\Users\Usuario\Documents\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.imagenes.resources
+C:\Users\Usuario\Documents\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.MainForm.resources
+C:\Users\Usuario\Documents\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.Panel.resources
+C:\Users\Usuario\Documents\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.add_pedido.resources
+C:\Users\Usuario\Documents\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.nuevo_producto.resources
+C:\Users\Usuario\Documents\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.Producto_Modulo.productos.resources
+C:\Users\Usuario\Documents\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.exe
+F:\Google Drive\Programacion\SharpDevelop Projects\APP Venta caja\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\bin\Release\ExcelDna-Template.dna
+F:\Google Drive\Programacion\SharpDevelop Projects\APP Venta caja\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\bin\Release\cgcommerce.exe.config
+F:\Google Drive\Programacion\SharpDevelop Projects\APP Venta caja\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\bin\Release\cgcommerce.exe
+F:\Google Drive\Programacion\SharpDevelop Projects\APP Venta caja\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\bin\Release\Microsoft.Office.Interop.Excel.dll
+F:\Google Drive\Programacion\SharpDevelop Projects\APP Venta caja\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\bin\Release\Office.dll
+F:\Google Drive\Programacion\SharpDevelop Projects\APP Venta caja\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\bin\Release\Spire.Common.dll
+F:\Google Drive\Programacion\SharpDevelop Projects\APP Venta caja\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\bin\Release\Spire.License.dll
+F:\Google Drive\Programacion\SharpDevelop Projects\APP Venta caja\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\bin\Release\Spire.Pdf.dll
+F:\Google Drive\Programacion\SharpDevelop Projects\APP Venta caja\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\bin\Release\Spire.XLS.dll
+F:\Google Drive\Programacion\SharpDevelop Projects\APP Venta caja\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\bin\Release\Microsoft.Vbe.Interop.dll
+F:\Google Drive\Programacion\SharpDevelop Projects\APP Venta caja\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\bin\Release\Microsoft.Office.Interop.Excel.xml
+F:\Google Drive\Programacion\SharpDevelop Projects\APP Venta caja\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\bin\Release\Office.xml
+F:\Google Drive\Programacion\SharpDevelop Projects\APP Venta caja\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.csprojResolveAssemblyReference.cache
+F:\Google Drive\Programacion\SharpDevelop Projects\APP Venta caja\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.Administracion___Modulo.finanza.resources
+F:\Google Drive\Programacion\SharpDevelop Projects\APP Venta caja\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.Agregado_Modulo.datos_agregado.resources
+F:\Google Drive\Programacion\SharpDevelop Projects\APP Venta caja\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.nuevo_agregado.resources
+F:\Google Drive\Programacion\SharpDevelop Projects\APP Venta caja\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.Caja_Modulo.cierre.resources
+F:\Google Drive\Programacion\SharpDevelop Projects\APP Venta caja\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.Caja_Modulo.apertura.resources
+F:\Google Drive\Programacion\SharpDevelop Projects\APP Venta caja\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.clientes.resources
+F:\Google Drive\Programacion\SharpDevelop Projects\APP Venta caja\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.editar_cliente.resources
+F:\Google Drive\Programacion\SharpDevelop Projects\APP Venta caja\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.nuevo_cliente.resources
+F:\Google Drive\Programacion\SharpDevelop Projects\APP Venta caja\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.Config_Modulo.config_menu.resources
+F:\Google Drive\Programacion\SharpDevelop Projects\APP Venta caja\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.empleado.resources
+F:\Google Drive\Programacion\SharpDevelop Projects\APP Venta caja\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.editar_empleado.resources
+F:\Google Drive\Programacion\SharpDevelop Projects\APP Venta caja\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.nuevo_empleado.resources
+F:\Google Drive\Programacion\SharpDevelop Projects\APP Venta caja\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.imagenes.resources
+F:\Google Drive\Programacion\SharpDevelop Projects\APP Venta caja\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.MainForm.resources
+F:\Google Drive\Programacion\SharpDevelop Projects\APP Venta caja\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.Panel.resources
+F:\Google Drive\Programacion\SharpDevelop Projects\APP Venta caja\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.add_pedido.resources
+F:\Google Drive\Programacion\SharpDevelop Projects\APP Venta caja\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.nuevo_producto.resources
+F:\Google Drive\Programacion\SharpDevelop Projects\APP Venta caja\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.Producto_Modulo.productos.resources
+F:\Google Drive\Programacion\SharpDevelop Projects\APP Venta caja\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.csproj.GenerateResource.Cache
+F:\Google Drive\Programacion\SharpDevelop Projects\APP Venta caja\app venta comida 4.0\app venta comida 4.0\app\cgcommerce\obj\Release\cgcommerce.exe
